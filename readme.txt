@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 edit for dev
 edit for stash
 fix bug 101
+test remote
